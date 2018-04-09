@@ -2,7 +2,7 @@
 # ridvanbaluyos/noah
 A PHP Library built for [NOAH API Documentation](http://noah.up.edu.ph/apidocs/) 
 
-[![Actively Maintained](https://maintained.tech/badge.svg)](https://maintained.tech/) [![License](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/license)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned)
+[![Actively Maintained](https://maintained.tech/badge.svg)](https://maintained.tech/) [![Latest Stable Version](https://poser.pugx.org/ridvanbaluyos/noah/v/stable)](https://packagist.org/packages/ridvanbaluyos/noah) [![Total Downloads](https://poser.pugx.org/ridvanbaluyos/noah/downloads)](https://packagist.org/packages/ridvanbaluyos/noah) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ridvanbaluyos/noah/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ridvanbaluyos/noah/?branch=master) [![Build Status](https://scrutinizer-ci.com/g/ridvanbaluyos/noah/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ridvanbaluyos/noah/build-status/master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3547b6eacdc347babf408539a5f82df5)](https://www.codacy.com/app/ridvanbaluyos/noah?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ridvanbaluyos/noah&amp;utm_campaign=Badge_Grade) [![License](https://poser.pugx.org/ridvanbaluyos/haveibeenpwned/license)](https://packagist.org/packages/ridvanbaluyos/haveibeenpwned)
 
 ## Table of contents ##
 - [Requirements](#requirements)
