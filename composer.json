@@ -1,6 +1,6 @@
 {
 	"name": "ridvanbaluyos/noah",
-	"version": "v0.1",
+	"version": "v0.2",
 	"type": "library",
 	"description": "A PHP Library built for the Project NOAH API.",
 	"keywords": ["himawari", "weather", "forecast"],

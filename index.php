@@ -5,5 +5,5 @@ use Ridvanbaluyos\Noah\Noah as Noah;
 require_once __DIR__ . '/vendor/autoload.php';
 
 $noah = new Noah();
-$stations = $noah->getSevenDayForecast(1630);
+$stations = $noah->getSevenDayForecast();
 var_dump($stations);
