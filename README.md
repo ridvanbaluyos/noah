@@ -27,7 +27,7 @@ A PHP Library built for [NOAH API Documentation](http://noah.up.edu.ph/apidocs/)
 ### Installation ###
 Open your `composer.json` file and add the following to the `require` key:
 
-    "ridvanbaluyos/noah": "v0.1"
+    "ridvanbaluyos/noah": "v0.2"
 
 ---
 
