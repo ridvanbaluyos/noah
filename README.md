@@ -115,7 +115,7 @@ $stations = $noah->getFourHourForecast();
 ```php
 <?php
 $noah = new Noah();
-// Parameter is location id.
+// Parameter is location id (optional)
 $stations = $noah->getSevenDayForecast(1); 
 ```
 *Note: I don't know yet where the reference to the the location id parameter. I will update this once I get a word from the developers.*

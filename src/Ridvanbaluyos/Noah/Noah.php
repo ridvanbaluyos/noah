@@ -158,9 +158,13 @@ class Noah
 	 * @param int $locationId - the location ID (i don't know yet what this is).
 	 * @return array $response
 	 */  
-	public function getSevenDayForecast($locationId = 1): array
+	public function getSevenDayForecast($locationId = null): array
 	{
-		$url = 'seven_day_forecast/'. $locationId;
+		$url = 'seven_day_forecast';
+		if (!is_null($locationId)) {
+			$url .= '/' . $locationId;
+		}
+		
 		$response = $this->getData($url);
 			
 		return $response;
